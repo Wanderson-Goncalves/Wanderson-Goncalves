@@ -4,7 +4,7 @@
 
 👨‍🎓 - Ciências de Dados
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/wandersongoncalvesmoreira)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wgmbi/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.linkedin.com/in/wandersongoncalvesmoreira)
 [![WhatSapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5531988103173&text=Ol%C3%A1!%20Deixe%20sua%20mensagem%2C%20assim%20que%20poss%C3%ADvel%20te%20retorno.)
 
